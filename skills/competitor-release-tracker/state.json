@@ -1,0 +1,362 @@
+{
+  "version": 1,
+  "sources": {
+    "github:ambire:https://github.com/AmbireTech/extension": {
+      "latestReleaseId": "343955929",
+      "checkedAt": "2026-06-25T08:00:26.538Z",
+      "id": "343955929",
+      "title": "v6.12.4 (Browser Extensions)",
+      "url": "https://github.com/AmbireTech/extension/releases/tag/v6.12.4",
+      "publishedAt": "2026-06-24T08:08:57Z",
+      "source": "https://github.com/AmbireTech/extension"
+    },
+    "x:ambire:ambire": {
+      "latestPostId": "2069794673527259391",
+      "checkedAt": "2026-06-25T08:00:27.037Z",
+      "source": "https://x.com/ambire"
+    },
+    "blog:ambire:https://blog.ambire.com/": {
+      "hash": "3239af1d42ca94474df31cae682239243f3128f0fa2a805b0a9375a477799b10",
+      "checkedAt": "2026-06-25T08:00:27.222Z",
+      "title": "Ambire Wallet Blog | Your Web3 Wallet That Just Works",
+      "source": "https://blog.ambire.com/",
+      "finalUrl": "https://blog.ambire.com/",
+      "latestItemUrl": "https://blog.ambire.com/clear-signing-erc-7730/",
+      "latestItemTitle": null
+    },
+    "github:argent:https://github.com/argentlabs/argent-contracts": {
+      "latestReleaseId": "43267175",
+      "checkedAt": "2026-06-25T08:00:27.535Z",
+      "id": "43267175",
+      "title": "Patching filters",
+      "url": "https://github.com/argentlabs/argent-contracts/releases/tag/2.5.1",
+      "publishedAt": "2021-05-20T07:18:07Z",
+      "source": "https://github.com/argentlabs/argent-contracts"
+    },
+    "github:argent:https://github.com/argentlabs/argent-x": {
+      "latestReleaseId": "205850809",
+      "checkedAt": "2026-06-25T08:00:27.795Z",
+      "id": "205850809",
+      "title": "v5.23.0",
+      "url": "https://github.com/argentlabs/argent-x/releases/tag/v5.23.0",
+      "publishedAt": "2025-03-14T13:34:50Z",
+      "source": "https://github.com/argentlabs/argent-x"
+    },
+    "blog:argent:https://www.argent.xyz/blog": {
+      "hash": "5fbd7a6171b2a0315c439c85dbebb2b1f734cd7c34ccaba53d3f4f799eea35b0",
+      "checkedAt": "2026-06-25T08:00:28.264Z",
+      "title": "Ready Blog",
+      "source": "https://www.argent.xyz/blog",
+      "finalUrl": "https://www.ready.co/blog",
+      "latestItemUrl": "https://www.ready.co/blog/introducing-bank-deposits",
+      "latestItemTitle": "Introducing Bank Deposits Skip the exchange. On-ramp to Ready instantly with bank transfers"
+    },
+    "github:base-app:https://github.com/coinbase/smart-wallet": {
+      "latestReleaseId": "232358954",
+      "checkedAt": "2026-06-25T08:00:28.524Z",
+      "id": "232358954",
+      "title": "Smart Wallet v1.1.0",
+      "url": "https://github.com/coinbase/smart-wallet/releases/tag/v1.1.0",
+      "publishedAt": "2025-07-14T23:01:46Z",
+      "source": "https://github.com/coinbase/smart-wallet"
+    },
+    "github:base-app:https://github.com/base/account-sdk": {
+      "latestReleaseId": "319643768",
+      "checkedAt": "2026-06-25T08:00:28.774Z",
+      "id": "319643768",
+      "title": "account: v2.5.6",
+      "url": "https://github.com/base/account-sdk/releases/tag/account-v2.5.6",
+      "publishedAt": "2026-05-08T17:22:30Z",
+      "source": "https://github.com/base/account-sdk"
+    },
+    "x:base-app:baseapp": {
+      "latestPostId": "2069854159835377714",
+      "checkedAt": "2026-06-25T08:00:29.124Z",
+      "source": "https://x.com/baseapp"
+    },
+    "x:bitget:BitgetWallet": {
+      "latestPostId": "2069752145251852738",
+      "checkedAt": "2026-06-25T08:00:29.485Z",
+      "source": "https://x.com/BitgetWallet"
+    },
+    "blog:bitget:https://web3.bitget.com/en/academy": {
+      "hash": "73078e4e3bd2a0feb7e2eef8d80635ba4161e4bb8dda989dcc501fca42248d1a",
+      "checkedAt": "2026-06-25T08:00:29.773Z",
+      "title": "Best Cryptocurrency Wallet Academy, Latest Cryptocurrency Wallet Technology and Articles | Bitget Wallet Academy",
+      "source": "https://web3.bitget.com/en/academy",
+      "finalUrl": "https://web3.bitget.com/en/academy",
+      "latestItemUrl": "https://web3.bitget.com/en/academy/top-privacy-coins-2026-which-anonymous-cryptocurrencies-lead-the-market-today",
+      "latestItemTitle": null
+    },
+    "github:brave-wallet:https://github.com/brave/brave-browser": {
+      "latestReleaseId": "343950567",
+      "checkedAt": "2026-06-25T08:00:30.100Z",
+      "id": "343950567",
+      "title": "Release v1.91.178 (Chromium 149.0.7827.196) ",
+      "url": "https://github.com/brave/brave-browser/releases/tag/v1.91.178",
+      "publishedAt": "2026-06-24T07:54:08Z",
+      "source": "https://github.com/brave/brave-browser"
+    },
+    "blog:brave-wallet:https://brave.com/blog/": {
+      "hash": "32a251fdffe819e610dc2f88ed45ab7c478db5cec78718cb979c772e7b7d69a2",
+      "checkedAt": "2026-06-25T08:00:30.355Z",
+      "title": "Brave’s latest news | Brave",
+      "source": "https://brave.com/blog/",
+      "finalUrl": "https://brave.com/blog/",
+      "latestItemUrl": "https://brave.com/blog/brave-origin/",
+      "latestItemTitle": "New products & features New Brave Origin premium experience offers users a minimalist version of the Brave browser Jun 4, 2026 Meet Brave Origin, the minimalist browser Brave users"
+    },
+    "github:coinbase-wallet:https://github.com/coinbase/coinbase-wallet-sdk": {
+      "latestReleaseId": "224150911",
+      "checkedAt": "2026-06-25T08:00:30.582Z",
+      "id": "224150911",
+      "title": "v4.3.4",
+      "url": "https://github.com/coinbase/coinbase-wallet-sdk/releases/tag/v4.3.4",
+      "publishedAt": "2025-06-09T21:35:04Z",
+      "source": "https://github.com/coinbase/coinbase-wallet-sdk"
+    },
+    "x:elytro:Elytro_eth": {
+      "latestPostId": "2055378989024174123",
+      "checkedAt": "2026-06-25T08:00:31.430Z",
+      "source": "https://x.com/Elytro_eth"
+    },
+    "x:family:family": {
+      "latestPostId": "2018760632338612428",
+      "checkedAt": "2026-06-25T08:00:31.766Z",
+      "source": "https://x.com/family"
+    },
+    "github:frame:https://github.com/floating/frame": {
+      "latestReleaseId": "197907285",
+      "checkedAt": "2026-06-25T08:00:32.021Z",
+      "id": "197907285",
+      "title": "0.6.11",
+      "url": "https://github.com/floating/frame/releases/tag/v0.6.11",
+      "publishedAt": "2025-02-03T19:40:28Z",
+      "source": "https://github.com/floating/frame"
+    },
+    "x:frame:0xFrame": {
+      "latestPostId": "1882878555681608169",
+      "checkedAt": "2026-06-25T08:00:32.391Z",
+      "source": "https://x.com/0xFrame"
+    },
+    "github:gemwallet:https://github.com/gemwalletcom/gem-ios": {
+      "latestReleaseId": "301433564",
+      "checkedAt": "2026-06-25T08:00:32.728Z",
+      "id": "301433564",
+      "title": "1.3.356",
+      "url": "https://github.com/gemwalletcom/gem-ios/releases/tag/1.3.356",
+      "publishedAt": "2026-03-25T20:40:42Z",
+      "source": "https://github.com/gemwalletcom/gem-ios"
+    },
+    "x:gemwallet:gemwallet": {
+      "latestPostId": "2058935027950362709",
+      "checkedAt": "2026-06-25T08:00:33.062Z",
+      "source": "https://x.com/gemwallet"
+    },
+    "github:imtoken:https://github.com/consenlabs/token-core-monorepo": {
+      "latestReleaseId": "337153143",
+      "checkedAt": "2026-06-25T08:00:33.349Z",
+      "id": "337153143",
+      "title": "Release 2.8.4+f548027",
+      "url": "https://github.com/consenlabs/token-core-monorepo/releases/tag/v2.8.4%2Bf548027",
+      "publishedAt": "2026-06-10T10:33:19Z",
+      "source": "https://github.com/consenlabs/token-core-monorepo"
+    },
+    "x:imtoken:imTokenOfficial": {
+      "latestPostId": "2066715956622336187",
+      "checkedAt": "2026-06-25T08:00:33.680Z",
+      "source": "https://x.com/imTokenOfficial"
+    },
+    "github:metamask:https://github.com/MetaMask/metamask-extension": {
+      "latestReleaseId": "342222589",
+      "checkedAt": "2026-06-25T08:00:33.994Z",
+      "id": "342222589",
+      "title": "Version 13.36.0",
+      "url": "https://github.com/MetaMask/metamask-extension/releases/tag/v13.36.0",
+      "publishedAt": "2026-06-20T01:44:22Z",
+      "source": "https://github.com/MetaMask/metamask-extension"
+    },
+    "x:metamask:MetaMask": {
+      "latestPostId": "2069875955401994616",
+      "checkedAt": "2026-06-25T08:00:34.355Z",
+      "source": "https://x.com/MetaMask"
+    },
+    "blog:metamask:https://metamask.io/news/": {
+      "hash": "1ab3ef92812dcd4d49ce8324c939761503ee7d7c272c3042783d67649fef7a44",
+      "checkedAt": "2026-06-25T08:00:34.727Z",
+      "title": "MetaMask News and Updates | MetaMask Blog",
+      "source": "https://metamask.io/news/",
+      "finalUrl": "https://metamask.io/en-GB/news",
+      "latestItemUrl": "https://metamask.io/en-GB/news/introducing-metamask-agent-wallet",
+      "latestItemTitle": "DEVELOPERS Introducing MetaMask Agent Wallet The Early Access Program opens June 8, 2026 for a limited group of traders and developers. Agents can access swaps, perps, prediction m"
+    },
+    "x:mtpelerin:mtpelerin": {
+      "latestPostId": "2062161619967250929",
+      "checkedAt": "2026-06-25T08:00:35.073Z",
+      "source": "https://x.com/mtpelerin"
+    },
+    "blog:mtpelerin:https://www.mtpelerin.com/blog": {
+      "hash": "bf313c2356dc12b90135d8813c4ffd065bfe0d7e3437d3e69219b27b4947d642",
+      "checkedAt": "2026-06-25T08:00:35.467Z",
+      "title": "Mt Pelerin, your gateway to the crypto world",
+      "source": "https://www.mtpelerin.com/blog",
+      "finalUrl": "https://www.mtpelerin.com/home",
+      "latestItemUrl": "https://www.mtpelerin.com/images/mt-pelerin-agefi.pdf",
+      "latestItemTitle": null
+    },
+    "x:nufi:nufiwallet": {
+      "latestPostId": "2069808575585669277",
+      "checkedAt": "2026-06-25T08:00:35.821Z",
+      "source": "https://x.com/nufiwallet"
+    },
+    "x:okx:wallet": {
+      "latestPostId": "2070002884465262697",
+      "checkedAt": "2026-06-25T08:00:36.181Z",
+      "source": "https://x.com/wallet"
+    },
+    "blog:okx:https://web3.okx.com/learn": {
+      "hash": "b7fea4e0db789cf2c87e2ef438707576f082a753e6039a4c645d882679f45490",
+      "checkedAt": "2026-06-25T08:00:36.529Z",
+      "title": "OKX Web3 Learn: Web3, Crypto & DeFi Learning Hub | OKX Wallet",
+      "source": "https://web3.okx.com/learn",
+      "finalUrl": "https://web3.okx.com/learn",
+      "latestItemUrl": "https://web3.okx.com/help/section/announcements-web3",
+      "latestItemTitle": "Announcements"
+    },
+    "x:phantom:phantom": {
+      "latestPostId": "2069912906532368789",
+      "checkedAt": "2026-06-25T08:00:36.893Z",
+      "source": "https://x.com/phantom"
+    },
+    "blog:phantom:https://phantom.com/learn/blog": {
+      "hash": "ab7c096da3062858ddc2dea19ffe702f2a5184a811bb04c34ef7383108e8d38a",
+      "checkedAt": "2026-06-25T08:00:37.143Z",
+      "title": "Phantom: The crypto wallet for everyone",
+      "source": "https://phantom.com/learn/blog",
+      "finalUrl": "https://phantom.com/en-GB/geo-restricted",
+      "latestItemUrl": "https://phantom.com/en-GB/learn/blog",
+      "latestItemTitle": "Blog"
+    },
+    "blog:pillarx:https://blog.pillarx.app/": {
+      "hash": "9787cc305284f7048234e8b8f039521e1e36b9cbcda6c18bf9702fcbdbfd72cf",
+      "checkedAt": "2026-06-25T08:00:38.254Z",
+      "title": "PillarX - All you need to navigate Web3",
+      "source": "https://blog.pillarx.app/",
+      "finalUrl": "https://blog.pillarx.app/",
+      "latestItemUrl": "https://blog.pillarx.app/introducing-pnl-track-your-trading-results-on-pillarx/",
+      "latestItemTitle": "Uncategorized Introducing PnL: Track Your Trading Results on PillarX Crypto trading moves fast, but understanding how your performance evolves shouldn't be complicated. That's why "
+    },
+    "github:rabby:https://github.com/RabbyHub/Rabby": {
+      "latestReleaseId": "342886247",
+      "checkedAt": "2026-06-25T08:00:38.485Z",
+      "id": "342886247",
+      "title": "v0.93.95 Release",
+      "url": "https://github.com/RabbyHub/Rabby/releases/tag/v0.93.95",
+      "publishedAt": "2026-06-22T12:36:17Z",
+      "source": "https://github.com/RabbyHub/Rabby"
+    },
+    "x:rabby:Rabby_io": {
+      "latestPostId": "2069389757306618228",
+      "checkedAt": "2026-06-25T08:00:38.843Z",
+      "source": "https://x.com/Rabby_io"
+    },
+    "github:rainbow:https://github.com/rainbow-me/browser-extension": {
+      "latestReleaseId": "336156356",
+      "checkedAt": "2026-06-25T08:00:39.101Z",
+      "id": "336156356",
+      "title": "v1.6.11",
+      "url": "https://github.com/rainbow-me/browser-extension/releases/tag/v1.6.11",
+      "publishedAt": "2026-06-08T18:06:09Z",
+      "source": "https://github.com/rainbow-me/browser-extension"
+    },
+    "github:rainbow:https://github.com/rainbow-me/rainbow": {
+      "latestReleaseId": "343099984",
+      "checkedAt": "2026-06-25T08:00:39.359Z",
+      "id": "343099984",
+      "title": "v2.0.36",
+      "url": "https://github.com/rainbow-me/rainbow/releases/tag/v2.0.36",
+      "publishedAt": "2026-06-22T18:45:59Z",
+      "source": "https://github.com/rainbow-me/rainbow"
+    },
+    "x:rainbow:rainbowdotme": {
+      "latestPostId": "2069871484353343798",
+      "checkedAt": "2026-06-25T08:00:39.717Z",
+      "source": "https://x.com/rainbowdotme"
+    },
+    "blog:safe:https://safe.global/blog": {
+      "hash": "ab76f444367aff4be576f103e3899ecbf6b0ad9442c29ae65db9c94d54e26f28",
+      "checkedAt": "2026-06-25T08:00:39.862Z",
+      "title": "Safe{Wallet}",
+      "source": "https://safe.global/blog",
+      "finalUrl": "https://safe.global/blog",
+      "latestItemUrl": "https://safe.global/blog/introducing-workspace-the-onchain-operating-environment-for-treasury-teams",
+      "latestItemTitle": "Safe Labs 9 June 2026 Introducing Workspace: The onchain operating environment for treasury teams Workspace gives your entire treasury team a home inside Safe — one dashboard acros"
+    },
+    "github:trust-wallet:https://github.com/trustwallet/wallet-core": {
+      "latestReleaseId": "341806149",
+      "checkedAt": "2026-06-25T08:00:40.110Z",
+      "id": "341806149",
+      "title": "4.6.15",
+      "url": "https://github.com/trustwallet/wallet-core/releases/tag/4.6.15",
+      "publishedAt": "2026-06-19T07:37:50Z",
+      "source": "https://github.com/trustwallet/wallet-core"
+    },
+    "blog:trust-wallet:https://trustwallet.com/blog": {
+      "hash": "cafa7c219d09dc69b5717ea7a2439d27fbfa6083a2592ca7b6c19d67dbea6af8",
+      "checkedAt": "2026-06-25T08:00:40.335Z",
+      "title": "Crypto and Web3 Blog | Trust Wallet",
+      "source": "https://trustwallet.com/blog",
+      "finalUrl": "https://trustwallet.com/blog",
+      "latestItemUrl": "https://trustwallet.com/blog/Announcements/bstocks-trading-competition",
+      "latestItemTitle": "Learn More"
+    },
+    "x:uniswap-wallet:Uniswap": {
+      "latestPostId": "2069814804592689610",
+      "checkedAt": "2026-06-25T08:00:40.696Z",
+      "source": "https://x.com/Uniswap"
+    },
+    "blog:uniswap-wallet:https://blog.uniswap.org/": {
+      "hash": "71295478176089ac84f2b58884cd700875fc4543a0b0dfbbac0580c0b6140177",
+      "checkedAt": "2026-06-25T08:00:40.983Z",
+      "title": "Blog | Uniswap Labs",
+      "source": "https://blog.uniswap.org/",
+      "finalUrl": "https://blog.uniswap.org/",
+      "latestItemUrl": "https://blog.uniswap.org/launch-auctions-from-uniswap-web-app",
+      "latestItemTitle": "June 24, 2026 Launch Auctions Directly from Uniswap Web App #Products"
+    },
+    "github:zerion:https://github.com/zeriontech/zerion-wallet-extension": {
+      "latestReleaseId": "337996700",
+      "checkedAt": "2026-06-25T08:00:41.303Z",
+      "id": "337996700",
+      "title": "v1.39.1",
+      "url": "https://github.com/zeriontech/zerion-wallet-extension/releases/tag/v1.39.1",
+      "publishedAt": "2026-06-11T13:52:40Z",
+      "source": "https://github.com/zeriontech/zerion-wallet-extension"
+    },
+    "x:zerion:zerion": {
+      "latestPostId": "2069758797892206788",
+      "checkedAt": "2026-06-25T08:00:41.669Z",
+      "source": "https://x.com/zerion"
+    },
+    "blog:zerion:https://zerion.io/blog": {
+      "hash": "ec5f8b03229e9af5f3424419c68a26193e38f807b2946767b92589764d30c23c",
+      "checkedAt": "2026-06-25T08:00:42.092Z",
+      "title": "Zerion Blog",
+      "source": "https://zerion.io/blog",
+      "finalUrl": "https://zerion.io/blog/",
+      "latestItemUrl": "https://zerion.io/blog/best-stablecoin-defi-yield-zerion-cli-li-fi/",
+      "latestItemTitle": "AI agents Where&#x27;s the Best Stablecoin Yield in DeFi? Zerion CLI + LI.FI Will Find It For You Learn how to find the best stablecoin yields in DeFi with AI agents, Zerion CLI, a"
+    },
+    "github:zeus:https://github.com/greekfetacheese/zeus": {
+      "latestReleaseId": "340600263",
+      "checkedAt": "2026-06-25T08:00:42.313Z",
+      "id": "340600263",
+      "title": "0.8.11 - hotfix",
+      "url": "https://github.com/greekfetacheese/zeus/releases/tag/0.8.11",
+      "publishedAt": "2026-06-17T08:07:19Z",
+      "source": "https://github.com/greekfetacheese/zeus"
+    }
+  },
+  "lastRunAt": "2026-06-25T08:00:26.195Z",
+  "competitorCount": 26
+}

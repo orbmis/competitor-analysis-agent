@@ -1,0 +1,186 @@
+{
+  "competitors": [
+    {
+      "id": "ambire",
+      "name": "Ambire",
+      "x_accounts": ["ambire"],
+      "blog_urls": ["https://blog.ambire.com/"],
+      "github_repos": ["https://github.com/AmbireTech/extension"]
+    },
+    {
+      "id": "argent",
+      "name": "Argent",
+      "x_accounts": [],
+      "blog_urls": ["https://www.argent.xyz/blog"],
+      "github_repos": ["https://github.com/argentlabs/argent-contracts", "https://github.com/argentlabs/argent-x"]
+    },
+    {
+      "id": "base-app",
+      "name": "Base App",
+      "x_accounts": ["baseapp"],
+      "blog_urls": [],
+      "github_repos": ["https://github.com/coinbase/smart-wallet", "https://github.com/base/account-sdk"]
+    },
+    {
+      "id": "bitget",
+      "name": "Bitget Wallet",
+      "x_accounts": ["BitgetWallet"],
+      "blog_urls": ["https://web3.bitget.com/en/academy"],
+      "github_repos": []
+    },
+    {
+      "id": "brave-wallet",
+      "name": "Brave Wallet",
+      "x_accounts": [],
+      "blog_urls": ["https://brave.com/blog/"],
+      "github_repos": ["https://github.com/brave/brave-browser"]
+    },
+    {
+      "id": "coinbase-wallet",
+      "name": "Coinbase Wallet",
+      "x_accounts": [],
+      "blog_urls": [],
+      "github_repos": ["https://github.com/coinbase/coinbase-wallet-sdk"]
+    },
+    {
+      "id": "daimo",
+      "name": "Daimo",
+      "x_accounts": ["daimo_eth"],
+      "blog_urls": [],
+      "github_repos": ["https://github.com/daimo-eth/pay"]
+    },
+    {
+      "id": "elytro",
+      "name": "Elytro",
+      "x_accounts": ["Elytro_eth"],
+      "blog_urls": [],
+      "github_repos": []
+    },
+    {
+      "id": "exodus",
+      "name": "Exodus",
+      "x_accounts": [],
+      "blog_urls": [],
+      "github_repos": []
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "x_accounts": ["family"],
+      "blog_urls": [],
+      "github_repos": []
+    },
+    {
+      "id": "frame",
+      "name": "Frame",
+      "x_accounts": ["0xFrame"],
+      "blog_urls": [],
+      "github_repos": ["https://github.com/floating/frame"]
+    },
+    {
+      "id": "gemwallet",
+      "name": "Gem Wallet",
+      "x_accounts": ["gemwallet"],
+      "blog_urls": [],
+      "github_repos": ["https://github.com/gemwalletcom/gem-ios"]
+    },
+    {
+      "id": "imtoken",
+      "name": "imToken",
+      "x_accounts": ["imTokenOfficial"],
+      "blog_urls": [],
+      "github_repos": ["https://github.com/consenlabs/token-core-monorepo"]
+    },
+    {
+      "id": "metamask",
+      "name": "MetaMask",
+      "x_accounts": ["MetaMask"],
+      "blog_urls": ["https://metamask.io/news/"],
+      "github_repos": ["https://github.com/MetaMask/metamask-extension"]
+    },
+    {
+      "id": "mtpelerin",
+      "name": "Bridge Wallet",
+      "x_accounts": ["mtpelerin"],
+      "blog_urls": ["https://www.mtpelerin.com/blog"],
+      "github_repos": []
+    },
+    {
+      "id": "nufi",
+      "name": "NuFi",
+      "x_accounts": ["nufiwallet"],
+      "blog_urls": [],
+      "github_repos": []
+    },
+    {
+      "id": "okx",
+      "name": "OKX Wallet",
+      "x_accounts": ["wallet"],
+      "blog_urls": ["https://web3.okx.com/learn"],
+      "github_repos": []
+    },
+    {
+      "id": "phantom",
+      "name": "Phantom",
+      "x_accounts": ["phantom"],
+      "blog_urls": ["https://phantom.com/learn/blog"],
+      "github_repos": []
+    },
+    {
+      "id": "pillarx",
+      "name": "PillarX",
+      "x_accounts": [],
+      "blog_urls": ["https://blog.pillarx.app/"],
+      "github_repos": ["https://github.com/pillarwallet/x"]
+    },
+    {
+      "id": "rabby",
+      "name": "Rabby",
+      "x_accounts": ["Rabby_io"],
+      "blog_urls": [],
+      "github_repos": ["https://github.com/RabbyHub/Rabby"]
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow",
+      "x_accounts": ["rainbowdotme"],
+      "blog_urls": [],
+      "github_repos": ["https://github.com/rainbow-me/browser-extension", "https://github.com/rainbow-me/rainbow"]
+    },
+    {
+      "id": "safe",
+      "name": "Safe",
+      "x_accounts": [],
+      "blog_urls": ["https://safe.global/blog"],
+      "github_repos": []
+    },
+    {
+      "id": "trust-wallet",
+      "name": "Trust Wallet",
+      "x_accounts": [],
+      "blog_urls": ["https://trustwallet.com/blog"],
+      "github_repos": ["https://github.com/trustwallet/wallet-core"]
+    },
+    {
+      "id": "uniswap-wallet",
+      "name": "Uniswap Wallet",
+      "x_accounts": ["Uniswap"],
+      "blog_urls": ["https://blog.uniswap.org/"],
+      "github_repos": []
+    },
+    {
+      "id": "zerion",
+      "name": "Zerion",
+      "x_accounts": ["zerion"],
+      "blog_urls": ["https://zerion.io/blog"],
+      "github_repos": ["https://github.com/zeriontech/zerion-wallet-extension"]
+    },
+    {
+      "id": "zeus",
+      "name": "Zeus",
+      "x_accounts": [],
+      "blog_urls": [],
+      "github_repos": ["https://github.com/greekfetacheese/zeus"]
+    }
+  ]
+}
