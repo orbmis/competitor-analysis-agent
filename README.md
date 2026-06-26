@@ -1,4 +1,4 @@
-# Magpie Workspace
+# Magpie
 
 Magpie is a release-watching assistant for self-custody wallet competitors.
 
