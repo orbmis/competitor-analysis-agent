@@ -43,13 +43,6 @@
       "github_repos": ["https://github.com/coinbase/coinbase-wallet-sdk"]
     },
     {
-      "id": "daimo",
-      "name": "Daimo",
-      "x_accounts": ["daimo_eth"],
-      "blog_urls": [],
-      "github_repos": ["https://github.com/daimo-eth/pay"]
-    },
-    {
       "id": "elytro",
       "name": "Elytro",
       "x_accounts": ["Elytro_eth"],
@@ -131,7 +124,7 @@
       "name": "PillarX",
       "x_accounts": [],
       "blog_urls": ["https://blog.pillarx.app/"],
-      "github_repos": ["https://github.com/pillarwallet/x"]
+      "github_repos": ["https://github.com/pillarwallet/pillarwallet"]
     },
     {
       "id": "rabby",
